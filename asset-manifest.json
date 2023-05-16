@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/aya-lulus/static/css/main.0abe1ca1.css",
+    "main.js": "/aya-lulus/static/js/main.49bb8b6b.js",
+    "static/js/787.da07d8c7.chunk.js": "/aya-lulus/static/js/787.da07d8c7.chunk.js",
+    "static/media/high_school_in_jakarta.mp3": "/aya-lulus/static/media/high_school_in_jakarta.f90025c8220ebc69e635.mp3",
+    "static/media/aya-face.png": "/aya-lulus/static/media/aya-face.3a7a11fd31c74fde3870.png",
+    "index.html": "/aya-lulus/index.html",
+    "main.0abe1ca1.css.map": "/aya-lulus/static/css/main.0abe1ca1.css.map",
+    "main.49bb8b6b.js.map": "/aya-lulus/static/js/main.49bb8b6b.js.map",
+    "787.da07d8c7.chunk.js.map": "/aya-lulus/static/js/787.da07d8c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0abe1ca1.css",
+    "static/js/main.49bb8b6b.js"
+  ]
+}
